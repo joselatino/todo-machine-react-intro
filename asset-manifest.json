@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/joselatino/todo-machine-react-intro/static/css/main.44573bb5.css",
+    "main.js": "/joselatino/todo-machine-react-intro/static/js/main.e315c7c2.js",
+    "index.html": "/joselatino/todo-machine-react-intro/index.html",
+    "static/media/delete.svg": "/joselatino/todo-machine-react-intro/static/media/delete.d9c7e0eeb3f573572e1521b7b69ed33e.svg",
+    "static/media/check.svg": "/joselatino/todo-machine-react-intro/static/media/check.af03c9a6a0411e40578874e6f00e807b.svg",
+    "main.44573bb5.css.map": "/joselatino/todo-machine-react-intro/static/css/main.44573bb5.css.map",
+    "main.e315c7c2.js.map": "/joselatino/todo-machine-react-intro/static/js/main.e315c7c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44573bb5.css",
+    "static/js/main.e315c7c2.js"
+  ]
+}
